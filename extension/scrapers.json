@@ -1,0 +1,9 @@
+{
+  "www.amazon.com": {
+    "itemSelector": ".product-image-description-row",
+    "nameSelector": ".lineitem-title-text",
+    "quantitySelector": "span[data-a-selector='value']",
+    "upcSelector": "[data-asin]",
+    "upcType": "asin"
+  }
+}
